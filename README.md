@@ -10,11 +10,6 @@ A Streamlit app that lets you drag and drop Excel files and automatically loads 
 - Handles type conversions (e.g., dates, postal codes)  
 - Replaces existing tables with new data  
 - Displays a preview of the uploaded tables directly in the browser (first 10 rows)
-
-## 🕹️ How to Use  
-1. Install the dependencies:  
-   ```bash
-   pip install streamlit pandas snowflake-snowpark-python openpyxl
    
 ## 🛠️ Technologies Used
 - Python
